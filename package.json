@@ -1,5 +1,7 @@
 {
   "name": "restauranteur",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "angular-mocks": "^1.6.9"
+  }
 }
