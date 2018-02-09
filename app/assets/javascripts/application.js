@@ -13,5 +13,6 @@
 //= require rails-ujs
 //= require turbolinks
 //= require angular
-//= require main
+//= require angular-animate
+//= require angular-resource
 //= require_tree .
